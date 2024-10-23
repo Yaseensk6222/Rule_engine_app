@@ -22,3 +22,23 @@ This project implements a Rule Engine that allows users to create, edit, evaluat
    ```bash
    git clone https://github.com/yourusername/rule-engine.git
    cd rule-engine
+
+   Set up a virtual environment (optional but recommended):
+
+bash
+Copy code
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+Install the required packages:
+
+bash
+Copy code
+pip install -r requirements.txt
+Set up the PostgreSQL database and configure your connection settings in app.py.
+
+Run the application:
+
+bash
+Copy code
+python app.py
+Access the application in your web browser at http://127.0.0.1:5000.
