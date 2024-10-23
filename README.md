@@ -42,3 +42,12 @@ bash
 Copy code
 python app.py
 Access the application in your web browser at http://127.0.0.1:5000.
+
+Usage
+Use the web interface to add, edit, and evaluate rules.
+Explore the functionalities provided to manage rules effectively.
+Troubleshooting
+Ensure your PostgreSQL server is running if you encounter database connection issues.
+Check for missing packages or errors in the terminal for guidance on what to fix.
+Conclusion
+Follow these steps to set up and run the Rule Engine application successfully. For any issues, refer to the documentation or open an issue in the repository.
