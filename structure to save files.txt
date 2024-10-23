@@ -1,0 +1,8 @@
+├── app.py
+├── static
+│   ├── css
+│   │   └── styles.css
+│   ├── js
+│   │   └── scripts.js
+├── templates
+    └── index.html
